@@ -14,4 +14,4 @@ Methodology
 
 
 Similar systems are used everywhere. 
-- For example, if you type in the word **"I am lerningg"**, chances are very high that you meant to write **"learning"**, as shown in **Figure 1**. 
+- For example, if you type in the word **"I am lerningg"**, chances are very high that you meant to write **"learning"**.
